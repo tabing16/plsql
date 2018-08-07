@@ -1,0 +1,1 @@
+exec dbms_mview.refresh('mv_emp','c');
